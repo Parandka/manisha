@@ -1,0 +1,19 @@
+
+        img {
+            width: 200px;
+            height:250px;
+        }
+        button {
+            padding:20px 50px;
+            border: none;
+            color:blue;
+        }
+        #addToCart{
+            background-color: orange;
+            
+        }
+        #buyNow{
+            background-color: orangered;
+        }
+        
+    
